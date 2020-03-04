@@ -1,11 +1,11 @@
 # Site settings
-author: beloved-scraper-9319
-title: 
+author: Doug Jones
+title: Why Code?
 header-img: img/home-bg.png
 email: dsjr1284@gmail.com
-copyright_name: beloved-scraper-9319
+copyright_name: Doug Jones
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reason for code 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DSJR1284
